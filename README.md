@@ -1,8 +1,8 @@
 # ActivitiesWebApp
-"In progress!" Activities Web App with .NET 6 &amp; React (instagram-ish app)
+"In progress!" Activities Web App with .NET 6 &amp; React 17 (instagram-ish app)
 
 ## Installation
-- To be done after finishing project!
+- Will be mentioned after finishing project!
 
 ## Technologies
 * .NET 6
