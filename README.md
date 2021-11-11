@@ -12,6 +12,6 @@
 * Formik
 * CQRS Pattern
 * JWT Authentication & Facebook Login
-* EF Core & Code First & MsSQL
+* EF Core w/ Code First & MsSQL
 * Fluent Validation
 * AutoMapper
