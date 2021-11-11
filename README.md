@@ -10,8 +10,8 @@
 * SignalR
 * MobX & Axios & React Router
 * Formik
-* EF Core & Code First & MsSQL
 * CQRS Pattern
+* JWT Authentication & Facebook Login
+* EF Core & Code First & MsSQL
 * Fluent Validation
 * AutoMapper
-* JWT Authentication & Facebook Login
